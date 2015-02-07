@@ -6,12 +6,12 @@ This simple script basically substitute a text in an ODT document and generate a
 HOW?
 ====
 
-0. [This is before first use] First you have to prepare a template letter in odt format. Feel free to customize the sample. You can use any image or any formatting. There are two important things to keep in mind:
+0. *This is before first use* First you have to prepare a template letter in odt format. Feel free to customize the sample. You can use any image or any formatting. There are two important things to keep in mind:
 
- - Script searchs for the word NAMESURNAME 
- - in a file called template.orig.odt 
+  - Script searchs for the word NAMESURNAME 
+  - in a file called template.orig.odt 
 
-These are both customizable in the script if you want to go an extra mile.
+  These are both customizable in the script if you want to go an extra mile.
 
 1. Put each name as a new line into the file names.txt
 2. Run generate.sh
